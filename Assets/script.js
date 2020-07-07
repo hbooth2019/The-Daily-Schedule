@@ -24,6 +24,8 @@ $(document).ready(function(){
     })}
      
    hourUpdater();
+   
+   var Welcome = confirm("welcome to your schedule, type in the text fields below, you can save your notes with the save buttons on the right!");
 
 // set up interval to check if current time needs to be updated
 var interval = setInterval(hourUpdater, 15000);

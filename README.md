@@ -2,6 +2,7 @@
 
 A place to store the daily tasks a user may encounter during a typical workday. 
 This day planner allows the user to enter and save a task in each hour block. 
+NOTE - This planner is displayed in Military time (1:00-24:00)
 
 
 
